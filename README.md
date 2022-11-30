@@ -1,1 +1,1 @@
-# QuoteGenerator
+quotes are powerful
